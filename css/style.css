@@ -34,16 +34,19 @@ body {
 }
 
 .carousel-image-1 {
-  background: url(../img/image1.jpg);
+  background: url(../img/ff.jpg);
   background-size: cover;
+  max-height: 500px;
 }
 .carousel-image-2 {
-  background: url(../img/image2.jpg);
+  background: url(../img/img2.jpg);
   background-size: cover;
+  max-height: 3000px;
 }
 .carousel-image-3 {
-  background: url(../img/image3.jpg);
+  background: url(../img/scott-webb-22536-unsplash.jpg);
   background-size: cover;
+  max-height: 500px;
 }
 
 #home-heading {
@@ -82,7 +85,7 @@ body {
 
 #page-header {
   height: 200px;
-  background: url('../img/image1.jpg');
+  background: url('../img/label.jpg');
   background-position: 0 -360px;
   background-attachment: fixed;
   color: #fff;
